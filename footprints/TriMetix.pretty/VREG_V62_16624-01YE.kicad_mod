@@ -247,7 +247,7 @@
   (pad "13" thru_hole circle (at -0.575 0) (size 0.45 0.45) (drill 0.2) (layers "*.Cu") (tstamp 52413fc4-4ced-4f3b-9968-8484bed6925c))
   (pad "14" thru_hole circle (at 0.575 0) (size 0.45 0.45) (drill 0.2) (layers "*.Cu") (tstamp 31c6b8fc-c083-4484-8a44-c9ce9e22abf2))
   (pad "15" thru_hole circle (at 0 -0.95) (size 0.45 0.45) (drill 0.2) (layers "*.Cu") (tstamp 6fbde0e2-8f4a-4e1d-9119-1566fd5669b0))
-  (model "/home/opencores/Projects/kicad-mrw/3d/TPS61025DRCR.step"
+  (model "${KIPRJMOD}/../../3d/TPS61025DRCR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

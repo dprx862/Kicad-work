@@ -51,7 +51,7 @@
   (pad "6" smd rect (at 2.7 0.635 90) (size 0.65 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5cd33757-035a-42ae-b67f-2ad2c0e0c34b))
   (pad "7" smd rect (at 2.7 -0.635 90) (size 0.65 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cc9ffd3f-11a9-45c8-ae47-994ca45f9cf2))
   (pad "8" smd rect (at 2.7 -1.905 90) (size 0.65 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68054975-93d3-41d8-8fa9-06fa64df478c))
-  (model "/home/opencores/Projects/kicad-mrw/3d/DMP3098LSD-13.stp"
+  (model "${KIPRJMOD}/../../3d/DMP3098LSD-13.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

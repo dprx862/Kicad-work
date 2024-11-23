@@ -42,7 +42,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/opencores/Projects/kicad-mrw/3d/B82462G4682M.stp"
+  (model "${KIPRJMOD}/../../3d/B82462G4682M.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

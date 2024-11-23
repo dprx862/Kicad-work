@@ -41,7 +41,7 @@
     (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp b4e72444-7320-4558-8bcf-158452a6ac90))
   (pad "1" thru_hole circle (at 0 0) (size 2.1 2.1) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 4456e593-2631-4da0-8163-e47d264b877e))
   (pad "2" thru_hole circle (at 5.08 0) (size 2.1 2.1) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 4dc86299-feb3-4a78-8663-a9029e51c791))
-  (model "/home/opencores/Projects/kicad-mrw/3d/1760510000.stp"
+  (model "${KIPRJMOD}/../../3d/1760510000.stp"
     (offset (xyz -3 -4 -4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

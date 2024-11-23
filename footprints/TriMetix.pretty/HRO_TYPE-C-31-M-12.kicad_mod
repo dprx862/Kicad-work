@@ -185,7 +185,7 @@
     (solder_mask_margin 0.102) (tstamp 44d9d2f0-ed47-4eb8-90a5-8ca3a307462d))
   (pad "S4" thru_hole oval (at 4.325 0) (size 0.9 1.7) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp b9c7ccea-68ff-4b18-a7c7-cd3054fe135d))
-  (model "/home/opencores/Projects/kicad-mrw/3d/HRO_TYPE-C-31-M-12.step"
+  (model "${KIPRJMOD}/../../3d/HRO_TYPE-C-31-M-12.step"
     (offset (xyz -4.5 -2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

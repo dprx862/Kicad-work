@@ -41,7 +41,7 @@
     (solder_mask_margin 0.102) (tstamp 1226c3ac-47ff-431c-82f2-b9a21e459a30))
   (pad "2" thru_hole circle (at -1 0.55) (size 1.308 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp d15f9e5c-9a82-49fe-bceb-3a19123e12af))
-  (model "/home/opencores/Projects/kicad-mrw/3d/B2B-PH-K-S_LF__SN_.step"
+  (model "${KIPRJMOD}/../../3d/B2B-PH-K-S_LF__SN_.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

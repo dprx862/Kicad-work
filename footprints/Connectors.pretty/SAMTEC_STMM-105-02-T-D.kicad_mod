@@ -797,7 +797,7 @@
   (pad "08" thru_hole circle (at 2 -1) (size 1.21 1.21) (drill 0.86) (layers "*.Cu" "*.Mask") (tstamp 17d5d565-6758-48f4-9bd2-86960d70e1da))
   (pad "09" thru_hole circle (at 4 1) (size 1.21 1.21) (drill 0.86) (layers "*.Cu" "*.Mask") (tstamp f9d4ce66-426d-4a33-8e7c-993f2ac8f2db))
   (pad "10" thru_hole circle (at 4 -1) (size 1.21 1.21) (drill 0.86) (layers "*.Cu" "*.Mask") (tstamp 3ab98731-1811-4a72-919a-4ff1c2f46957))
-  (model "/home/opencores/Projects/kicad-mrw/3d/STMM-105-02-T-D.stp"
+  (model "${KIPRJMOD}/../../3d/STMM-105-02-T-D.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

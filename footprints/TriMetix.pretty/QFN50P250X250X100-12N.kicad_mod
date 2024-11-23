@@ -69,7 +69,7 @@
     (solder_mask_margin 0.102) (tstamp 33fe0063-8726-416c-8d25-7dc77e272981))
   (pad "12" smd roundrect (at -0.25 -1.185 90) (size 0.86 0.27) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03)
     (solder_mask_margin 0.102) (tstamp 82bc780d-abb1-44c9-8245-3745d6918d30))
-  (model "/home/opencores/Projects/kicad-mrw/3d/TPS63051RMWR.step"
+  (model "${KIPRJMOD}/../../3d/TPS63051RMWR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

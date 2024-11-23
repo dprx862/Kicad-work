@@ -224,7 +224,7 @@
     (solder_mask_margin 0.102) (tstamp 519d8893-5314-4226-94fe-d4fb007b2fb5))
   (pad "49" smd rect (at 0 0) (size 6.2 6.2) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 8e3e7ca7-e0cd-4870-a45d-f9b9d0627e18))
-  (model "/home/opencores/Projects/kicad-mrw/3d/FT232HQ-REEL.stp"
+  (model "${KIPRJMOD}/../../3d/FT232HQ-REEL.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -58,7 +58,7 @@
   (pad "23" smd rect (at -0.75 -2) (size 0.3 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23d00cae-94a1-4429-b87b-140ca843b739))
   (pad "24" smd rect (at -1.25 -2) (size 0.3 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5c7bf2a4-c486-4eb2-821a-50564b89ab18))
   (pad "25" smd rect (at 0 0) (size 2.85 2.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dadebb55-cfa0-4d97-9d3a-d3e3238c6eb3))
-  (model "/home/opencores/Projects/kicad-mrw/3d/CYPD3177-24LQXI.stp"
+  (model "${KIPRJMOD}/../../3d/CYPD3177-24LQXI.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

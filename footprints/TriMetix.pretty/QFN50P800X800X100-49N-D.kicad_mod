@@ -84,7 +84,7 @@
   (pad "47" smd rect (at -2.25 -3.85) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12d81c31-2469-4711-9767-a08303fd6ce7))
   (pad "48" smd rect (at -2.75 -3.85) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bb3e53a6-47e7-45dc-9ceb-b62c0811d8ab))
   (pad "49" smd rect (at 0 0) (size 6.25 6.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e2aca28-1957-4591-9244-a6aa8dbb3591))
-  (model "/home/opencores/Projects/kicad-mrw/3d/FT232HQ-REEL.stp"
+  (model "${KIPRJMOD}/../../3d/FT232HQ-REEL.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

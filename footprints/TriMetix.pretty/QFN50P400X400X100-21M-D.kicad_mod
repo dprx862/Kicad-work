@@ -56,7 +56,7 @@
   (pad "19" smd rect (at -0.5 -2.05) (size 0.3 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 54992ddc-e3a7-4420-ac3e-86750996583a))
   (pad "20" smd rect (at -1 -2.05) (size 0.3 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2d91419c-d4d8-4ae2-a9ac-ec2e4c03c6fd))
   (pad "21" smd rect (at 0 0) (size 2.8 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 143e722a-ea66-41de-9daf-11c5448afae1))
-  (model "/home/opencores/Projects/kicad-mrw/3d/MCP73871T-2CCI_ML.stp"
+  (model "${KIPRJMOD}/../../3d/MCP73871T-2CCI_ML.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

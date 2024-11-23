@@ -51,7 +51,7 @@
   (pad "10" smd rect (at 0.7625 -0.75) (size 0.275 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f00da1a0-161f-4b30-9964-83b97266645a))
   (pad "11" smd rect (at 0.25 -0.7625) (size 0.25 0.275) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6dd18ee5-1e92-48ae-aa0c-1921cd0c70bf))
   (pad "12" smd rect (at -0.25 -0.7625) (size 0.25 0.275) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d5bca5f-b151-431e-b7de-370cce9d2434))
-  (model "/home/opencores/Projects/kicad-mrw/3d/LIS3MDLTR.stp"
+  (model "${KIPRJMOD}/../../3d/LIS3MDLTR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))
