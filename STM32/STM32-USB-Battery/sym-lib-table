@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TmxBatt")(type "KiCad")(uri "/home/opencores/Projects/kicad-mrw/symbols/MCP73871T-2CCI_ML.kicad_sym")(options "")(descr ""))
+  (lib (name "TmXUSB")(type "KiCad")(uri "/home/opencores/Projects/kicad-mrw/symbols/TmXUSB.kicad_sym")(options "")(descr ""))
+  (lib (name "Phil")(type "KiCad")(uri "/home/opencores/Projects/kicad-mrw/symbols/stm32f405rgtx-mcu_st_stm32f4.kicad_sym")(options "")(descr ""))
+)
