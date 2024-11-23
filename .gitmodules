@@ -1,0 +1,3 @@
+[submodule "STM32/STM32-USB-Battery/firmware/Core/Drivers"]
+	path = STM32/STM32-USB-Battery/firmware/Core/Drivers
+	url = git@github.com:dprx862/stm32-drivers.git
